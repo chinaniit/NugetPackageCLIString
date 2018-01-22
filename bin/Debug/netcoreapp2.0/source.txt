@@ -1,0 +1,28 @@
+﻿  <package id="CacheManager.SystemRuntimeCaching" version="0.6.1" targetFramework="net451" />
+  <package id="Castle.Core" version="3.3.3" targetFramework="net451" />
+  <package id="Common.Logging" version="2.1.1" targetFramework="net451" />
+  <package id="Dapper" version="1.50.2" targetFramework="net451" />
+  <package id="DocumentFormat.OpenXml" version="2.5" targetFramework="net451" />
+  <package id="EnyimMemcached" version="2.12" targetFramework="net451" />
+  <package id="FlySql" version="0.11.5" targetFramework="net451" />
+  <package id="FlySql.Extensions" version="0.11.7" targetFramework="net451" />
+  <package id="FX.Configuration" version="0.4.1" targetFramework="net451" />
+  <package id="log4net" version="2.0.3" targetFramework="net45" userInstalled="true" />
+  <package id="MediaToolkit" version="1.1.0.0" targetFramework="net451" />
+  <package id="Microsoft.AspNet.Identity.Core" version="2.0.0" targetFramework="net451" />
+  <package id="Microsoft.AspNet.Razor" version="3.0.0" targetFramework="net451" />
+  <package id="Microsoft.AspNet.WebApi.Client" version="5.2.3" targetFramework="net451" />
+  <package id="Microsoft.Owin" version="3.0.1" targetFramework="net451" />
+  <package id="Microsoft.Owin.Host.SystemWeb" version="3.0.1" targetFramework="net451" />
+  <package id="Microsoft.Owin.Security" version="3.0.1" targetFramework="net451" />
+  <package id="MimeKit" version="1.2.14.0" targetFramework="net451" />
+  <package id="MySql.Data" version="6.9.9" targetFramework="net451" />
+  <package id="Newtonsoft.Json" version="9.0.1" targetFramework="net451" />
+  <package id="Nustache" version="1.15.3.7" targetFramework="net451" />
+  <package id="Owin" version="1.0" targetFramework="net451" />
+  <package id="PagedList" version="1.17.0.0" targetFramework="net451" userInstalled="true" />
+  <package id="RazorEngine" version="3.7.6" targetFramework="net451" />
+  <package id="Select.HtmlToPdf" version="2.4.0.1" targetFramework="net451" />
+  <package id="SharpZipLib" version="0.86.0" targetFramework="net451" userInstalled="true" />
+  <package id="structuremap" version="3.1.5.154" targetFramework="net451" userInstalled="true" />
+  <package id="System.Runtime.InteropServices.RuntimeInformation" version="4.0.0" targetFramework="net451" />

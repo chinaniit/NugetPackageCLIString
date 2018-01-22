@@ -1,0 +1,12 @@
+D:\code\test\NugetPackageCLIString\NugetPackageCLIString\bin\Debug\netcoreapp2.0\source.txt
+D:\code\test\NugetPackageCLIString\NugetPackageCLIString\bin\Debug\netcoreapp2.0\NugetPackageCLIString.deps.json
+D:\code\test\NugetPackageCLIString\NugetPackageCLIString\bin\Debug\netcoreapp2.0\NugetPackageCLIString.runtimeconfig.json
+D:\code\test\NugetPackageCLIString\NugetPackageCLIString\bin\Debug\netcoreapp2.0\NugetPackageCLIString.runtimeconfig.dev.json
+D:\code\test\NugetPackageCLIString\NugetPackageCLIString\bin\Debug\netcoreapp2.0\NugetPackageCLIString.dll
+D:\code\test\NugetPackageCLIString\NugetPackageCLIString\bin\Debug\netcoreapp2.0\NugetPackageCLIString.pdb
+D:\code\test\NugetPackageCLIString\NugetPackageCLIString\obj\Debug\netcoreapp2.0\NugetPackageCLIString.csprojResolveAssemblyReference.cache
+D:\code\test\NugetPackageCLIString\NugetPackageCLIString\obj\Debug\netcoreapp2.0\NugetPackageCLIString.csproj.CoreCompileInputs.cache
+D:\code\test\NugetPackageCLIString\NugetPackageCLIString\obj\Debug\netcoreapp2.0\NugetPackageCLIString.AssemblyInfoInputs.cache
+D:\code\test\NugetPackageCLIString\NugetPackageCLIString\obj\Debug\netcoreapp2.0\NugetPackageCLIString.AssemblyInfo.cs
+D:\code\test\NugetPackageCLIString\NugetPackageCLIString\obj\Debug\netcoreapp2.0\NugetPackageCLIString.dll
+D:\code\test\NugetPackageCLIString\NugetPackageCLIString\obj\Debug\netcoreapp2.0\NugetPackageCLIString.pdb
