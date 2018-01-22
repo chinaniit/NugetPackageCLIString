@@ -4,8 +4,6 @@ install-package Common.Logging -v 2.1.1
 install-package Dapper -v 1.50.2
 install-package DocumentFormat.OpenXml -v 2.5
 install-package EnyimMemcached -v 2.12
-install-package FlySql -v 0.11.5
-install-package FlySql.Extensions -v 0.11.7
 install-package FX.Configuration -v 0.4.1
 install-package MediaToolkit -v 1.1.0.0
 install-package Microsoft.AspNet.Identity.Core -v 2.0.0
